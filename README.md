@@ -11,16 +11,6 @@ Un proyecto de análisis predictivo que utiliza múltiples modelos de series de 
 
 ---
 
-## 👤 Autor
-
-**César Adrián Delgado Díaz**
-
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](https://www.linkedin.com/in/cesar-delgado-diaz)
-- 💻 GitHub: [github.com/cesar530](https://github.com/cesar530)
-
----
-
 ## 📋 Descripción del Proyecto
 
 Este proyecto implementa un sistema de análisis predictivo para el momentum de partidos de NFL utilizando técnicas avanzadas de machine learning y deep learning. El modelo analiza la dinámica del juego en tiempo real y predice cambios en el momentum basándose en múltiples características del partido.
@@ -385,15 +375,12 @@ Las contribuciones son bienvenidas. Por favor:
 
 ---
 
-## 📞 Contacto
+## 👤 Autor
 
-**César Adrián Delgado Díaz**
-
-- 📧 Email: [Disponible en LinkedIn](https://www.linkedin.com/in/cesar-delgado-diaz)
-- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](https://www.linkedin.com/in/cesar-delgado-diaz)
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💻 GitHub: [github.com/cesar530](https://github.com/cesar530)
-
+- 👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
+- 🐙 GitHub: [github.com/tu-usuario](https://github.com/cesar530)
+  
 ---
 
 ## ⭐ Agradecimientos
@@ -404,10 +391,5 @@ Las contribuciones son bienvenidas. Por favor:
 
 ---
 
-<div align="center">
-
 **Si este proyecto te resultó útil, considera darle una ⭐ en GitHub!**
 
-Made with ❤️ by César Adrián Delgado Díaz
-
-</div>
